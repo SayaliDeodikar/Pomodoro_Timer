@@ -1,5 +1,5 @@
 # Pomodoro_Timer🍅
-Pomodoro technique is used for for increasing the productivity during the work.
+Pomodoro technique is used for increasing the productivity during the work.
 
 This timer is designed in the following fashion:
 * 25 min work - Session 1
